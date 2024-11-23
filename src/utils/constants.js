@@ -36,3 +36,6 @@ export const BRAKING=
 
 export const JNJ=
 "https://b.zmtcdn.com/data/brand_creatives/logos/947bf8348e8dc76f299c3dc7e6adccf3_1594461911.png?output-format=webp";
+
+export const GIT_API=
+"https://api.github.com/users/Abkaplesh02";

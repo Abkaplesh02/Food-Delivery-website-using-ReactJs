@@ -1,0 +1,38 @@
+const mockGitData=
+{
+    "login": "Abkaplesh02",
+    "id": 130023241,
+    "node_id": "U_kgDOB7__SQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/130023241?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Abkaplesh02",
+    "html_url": "https://github.com/Abkaplesh02",
+    "followers_url": "https://api.github.com/users/Abkaplesh02/followers",
+    "following_url": "https://api.github.com/users/Abkaplesh02/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Abkaplesh02/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Abkaplesh02/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Abkaplesh02/subscriptions",
+    "organizations_url": "https://api.github.com/users/Abkaplesh02/orgs",
+    "repos_url": "https://api.github.com/users/Abkaplesh02/repos",
+    "events_url": "https://api.github.com/users/Abkaplesh02/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Abkaplesh02/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "name": "Abhishek Kaplesh",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": "Lazy coder",
+    "twitter_username": "Abkaplesh01",
+    "public_repos": 44,
+    "public_gists": 0,
+    "followers": 2,
+    "following": 1,
+    "created_at": "2023-04-06T03:23:02Z",
+    "updated_at": "2024-08-14T20:13:21Z"
+  };
+
+  export default mockGitData

@@ -2,7 +2,6 @@ import { SUBWAY } from "../utils/constants";
 
 const RestCard = (props) =>{
     const {data}=props;
-    console.log(data);
     return(
            <div className="w-[450px] mx-5 my-8 hover:border-2 hover:border-gray-100 hover:shadow-2xl p-4 rounded-3xl cursor-pointer">
             <div className="pb-3 items-center">
