@@ -33,10 +33,10 @@ const AppLayout = () =>{
 
 const appRoute=createBrowserRouter([
     {
-        path:"/home",
+        path:"/",
         element:<AppLayout/>,
         children:[{
-            path:"/home",
+            path:"/",
             element:<Body/>
         },
         {
