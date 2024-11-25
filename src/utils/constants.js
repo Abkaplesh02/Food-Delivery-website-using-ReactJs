@@ -42,3 +42,15 @@ export const GIT_API=
 
 export const ZomApi=
 "https://www.zomato.com/webroutes/getPage?page_url=/";
+
+export const Gulab=
+"https://b.zmtcdn.com/data/pictures/chains/7/120767/8b6f3f3467eb42e951691572d1953510_o2_featured_v2.jpg";
+
+export const MCD=
+"https://b.zmtcdn.com/data/brand_creatives/logos/874c2b2b4554f4aed7dd3bb4e755c420_1604383084.png";
+
+export const LAP=
+"https://b.zmtcdn.com/data/brand_creatives/logos/05142cf68ce04384bb185659e1bfe450_1625160212.png";
+
+export const GOPAL=
+"https://b.zmtcdn.com/data/brand_creatives/logos/dcf0789d9ba484517df5342ced41e077_1688116098.png";

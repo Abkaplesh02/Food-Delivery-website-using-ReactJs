@@ -14,7 +14,6 @@ const RestMenu =()=>{
     const [activeSection,setActiveSection]=useState("Overview");
     const data=useMenuHook(restPath);
 
-    console.log(data);
 
     if(data==null){
         return <ShimmerItems/>
@@ -65,12 +64,12 @@ const RestMenu =()=>{
 
 
                 <div className="mb-5">
-                    <div className="w-10/12 mx-auto" >
+                    <div className="w-10/12 mx-auto border-b-2 border-gray-200" >
                     <ul className="flex justify-between text-3xl">
-                        <Link><li onClick={()=>setActiveSection("Overview")}>Overview</li></Link>
-                        <Link><li onClick={()=>setActiveSection("OrderOnline")}>Order Online</li></Link>
-                        <Link><li onClick={()=>setActiveSection("Reviews")}>Reviews</li></Link>
-                        <Link><li onClick={()=>setActiveSection("Photos")}>Photos</li></Link>
+                        <Link><li className={` ${activeSection==="Overview" ?"border-b-2 border-red-500 text-red-600 shadow-3xl" : ""}`} onClick={()=>setActiveSection("Overview")}>Overview</li></Link>
+                        <Link><li className={` ${activeSection==="OrderOnline" ?"border-b-2 border-red-500 text-red-600 shadow-3xl" : ""}`} onClick={()=>setActiveSection("OrderOnline")}>Order Online</li></Link>
+                        <Link><li className={` ${activeSection==="Reviews" ?"border-b-2 border-red-500 text-red-600 shadow-3xl" : ""}`} onClick={()=>setActiveSection("Reviews")}>Reviews</li></Link>
+                        <Link><li className={` ${activeSection==="Photos" ?"border-b-2 border-red-500 text-red-600 shadow-3xl" : ""}`} onClick={()=>setActiveSection("Photos")}>Photos</li></Link>
                         <Link><li>Menu</li></Link>
                     </ul>
                     </div>

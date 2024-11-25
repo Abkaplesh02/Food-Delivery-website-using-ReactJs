@@ -15,7 +15,7 @@ const RestCard = (props) =>{
                 <p className="w-7/12">{data.info.cuisine.map((e)=>e.name).join(" , ")}</p>
                 <p className="w-4/12 text-right">{data.info.cft.text}</p>
             </div>
-            <p className="text-right text-lg pb-2">{data.order.deliveryTime}</p>
+            <p className="text-right text-lg pb-2">{data.order.deliveryTime || data.distance}</p>
            </div>
         
     )

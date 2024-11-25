@@ -1,7 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom/client";
-import { Provider } from "react-redux";
 import appStore from "./Redux/appStore";
+import { Provider } from "react-redux";
 import Header from "./components/Header";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
@@ -11,18 +11,23 @@ import Cart from "./components/Cart";
 import User from "./components/User";
 import Error from "./components/Error";
 import RestMenu from "./components/RestMenu";
+// import searchContext from "./utils/searchContext";
 
 
 
 const AppLayout = () =>{
     return (
+        
         <Provider store={appStore}>
+            {/* <searchContext.Provider > */}
         <div className="app">
             <Header/>
             <Outlet/>
             <Footer/>
         </div>
+        {/* </searchContext.Provider> */}
         </Provider>
+        
     )
 }
 
