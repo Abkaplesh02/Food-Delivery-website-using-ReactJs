@@ -39,3 +39,6 @@ export const JNJ=
 
 export const GIT_API=
 "https://api.github.com/users/Abkaplesh02";
+
+export const ZomApi=
+"https://www.zomato.com/webroutes/getPage?page_url=/";

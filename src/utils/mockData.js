@@ -156,7 +156,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Currently not accepting orders",
-                        "clickUrl": "\/chandigarh\/rolls-xpress-original-lohgarh-zirakpur\/order"
+                        "clickUrl": "/chandigarh/rolls-xpress-original-lohgarh-zirakpur/order"
                     }
                 },
                 "gold": [],
@@ -337,7 +337,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Currently not accepting orders",
-                        "clickUrl": "\/chandigarh\/hk-kitchen-sector-11-panchkula\/order"
+                        "clickUrl": "/chandigarh/hk-kitchen-sector-11-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -516,7 +516,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/tandoori-hut-2-sector-46-c\/order"
+                        "clickUrl": "/chandigarh/tandoori-hut-2-sector-46-c/order"
                     }
                 },
                 "gold": [],
@@ -705,7 +705,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/domnics-pizza-1-chandigarh-road-zirakpur\/order"
+                        "clickUrl": "/chandigarh/domnics-pizza-1-chandigarh-road-zirakpur/order"
                     }
                 },
                 "gold": [],
@@ -886,7 +886,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/crazy-food-juice-bar-sector-19-panchkula\/order"
+                        "clickUrl": "/chandigarh/crazy-food-juice-bar-sector-19-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -1060,7 +1060,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/punjabi-chai-churi-sector-15\/order"
+                        "clickUrl": "/chandigarh/punjabi-chai-churi-sector-15/order"
                     }
                 },
                 "gold": [],
@@ -1221,7 +1221,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/ice-pice-phase-10-mohali\/order"
+                        "clickUrl": "/chandigarh/ice-pice-phase-10-mohali/order"
                     }
                 },
                 "gold": [],
@@ -1390,7 +1390,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/pizzas-king-sector-19-panchkula\/order"
+                        "clickUrl": "/chandigarh/pizzas-king-sector-19-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -1561,7 +1561,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/sher-e-punjab-da-dhaba-chandigarh-industrial-area\/order"
+                        "clickUrl": "/chandigarh/sher-e-punjab-da-dhaba-chandigarh-industrial-area/order"
                     }
                 },
                 "gold": [],
@@ -1722,7 +1722,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/vaishno-food-snacks-sector-19-panchkula\/order"
+                        "clickUrl": "/chandigarh/vaishno-food-snacks-sector-19-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -1883,7 +1883,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/desi-rasoi-1-lohgarh-zirakpur\/order"
+                        "clickUrl": "/chandigarh/desi-rasoi-1-lohgarh-zirakpur/order"
                     }
                 },
                 "gold": [],
@@ -2074,7 +2074,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/roll-xpress-original-sector-67-mohali\/order"
+                        "clickUrl": "/chandigarh/roll-xpress-original-sector-67-mohali/order"
                     }
                 },
                 "gold": [],
@@ -2248,7 +2248,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/dad-secret-pizza-1-sector-19-panchkula\/order"
+                        "clickUrl": "/chandigarh/dad-secret-pizza-1-sector-19-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -2409,7 +2409,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/pizzeria-sector-15-panchkula\/order"
+                        "clickUrl": "/chandigarh/pizzeria-sector-15-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -2575,7 +2575,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/brown-baking-company-chandigarh-industrial-area\/order"
+                        "clickUrl": "/chandigarh/brown-baking-company-chandigarh-industrial-area/order"
                     }
                 },
                 "gold": [],
@@ -2746,7 +2746,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/idli-anna-thirsty-cane-sector-20-panchkula\/order"
+                        "clickUrl": "/chandigarh/idli-anna-thirsty-cane-sector-20-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -2915,7 +2915,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/master-oven-pizza-sector-15-panchkula\/order"
+                        "clickUrl": "/chandigarh/master-oven-pizza-sector-15-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -3076,7 +3076,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/seema-ki-rasoi-lohgarh-zirakpur\/order"
+                        "clickUrl": "/chandigarh/seema-ki-rasoi-lohgarh-zirakpur/order"
                     }
                 },
                 "gold": [],
@@ -3242,7 +3242,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/biryani-24-7-phase-9-mohali\/order"
+                        "clickUrl": "/chandigarh/biryani-24-7-phase-9-mohali/order"
                     }
                 },
                 "gold": [],
@@ -3403,7 +3403,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/mexican-pizza-chandigarh-road-zirakpur\/order"
+                        "clickUrl": "/chandigarh/mexican-pizza-chandigarh-road-zirakpur/order"
                     }
                 },
                 "gold": [],
@@ -3579,7 +3579,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/panchkula-rasoi-sector-20-panchkula\/order"
+                        "clickUrl": "/chandigarh/panchkula-rasoi-sector-20-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -3758,7 +3758,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/khana-khazana-sector-19-panchkula\/order"
+                        "clickUrl": "/chandigarh/khana-khazana-sector-19-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -3929,7 +3929,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/food-affairs-sector-14-panchkula\/order"
+                        "clickUrl": "/chandigarh/food-affairs-sector-14-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -4120,7 +4120,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/indian-hut-manimajra\/order"
+                        "clickUrl": "/chandigarh/indian-hut-manimajra/order"
                     }
                 },
                 "gold": [],
@@ -4287,7 +4287,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/oven-grilled-cafe-1-it-park\/order"
+                        "clickUrl": "/chandigarh/oven-grilled-cafe-1-it-park/order"
                     }
                 },
                 "gold": [],
@@ -4478,7 +4478,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/cafe-coffee-day-sector-16\/order"
+                        "clickUrl": "/chandigarh/cafe-coffee-day-sector-16/order"
                     }
                 },
                 "gold": [],
@@ -4672,7 +4672,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/biryani-corner-phase-9-mohali\/order"
+                        "clickUrl": "/chandigarh/biryani-corner-phase-9-mohali/order"
                     }
                 },
                 "gold": [],
@@ -4858,7 +4858,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/hotel-mubarak-plaza-1-dhakoli-zirakpur\/order"
+                        "clickUrl": "/chandigarh/hotel-mubarak-plaza-1-dhakoli-zirakpur/order"
                     }
                 },
                 "gold": [],
@@ -5024,7 +5024,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/chinese-tadka-sector-20-panchkula\/order"
+                        "clickUrl": "/chandigarh/chinese-tadka-sector-20-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -5223,7 +5223,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/the-roll-masterz-sector-67-mohali\/order"
+                        "clickUrl": "/chandigarh/the-roll-masterz-sector-67-mohali/order"
                     }
                 },
                 "gold": [],
@@ -5389,7 +5389,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/waffle-party-phase-10-mohali\/order"
+                        "clickUrl": "/chandigarh/waffle-party-phase-10-mohali/order"
                     }
                 },
                 "gold": [],
@@ -5555,7 +5555,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/brown-baking-cakes-chandigarh-industrial-area\/order"
+                        "clickUrl": "/chandigarh/brown-baking-cakes-chandigarh-industrial-area/order"
                     }
                 },
                 "gold": [],
@@ -5749,7 +5749,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/rolls-nation-sector-67-mohali\/order"
+                        "clickUrl": "/chandigarh/rolls-nation-sector-67-mohali/order"
                     }
                 },
                 "gold": [],
@@ -5920,7 +5920,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/roll-mafia-sector-46-c\/order"
+                        "clickUrl": "/chandigarh/roll-mafia-sector-46-c/order"
                     }
                 },
                 "gold": [],
@@ -6092,7 +6092,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/khana-khazana-1-sector-19-panchkula\/order"
+                        "clickUrl": "/chandigarh/khana-khazana-1-sector-19-panchkula/order"
                     }
                 },
                 "gold": [],
@@ -6254,7 +6254,7 @@
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "\/chandigarh\/roll-express-24x7-phase-7-mohali\/order"
+                        "clickUrl": "/chandigarh/roll-express-24x7-phase-7-mohali/order"
                     }
                 },
                 "gold": [],

@@ -5,12 +5,13 @@ import appStore from "./Redux/appStore";
 import Header from "./components/Header";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
-import { createBrowserRouter, Outlet, RouterProvider } from "react-router";
+import { BrowserRouter, createBrowserRouter, Outlet, RouterProvider } from "react-router";
 import About from "./components/About";
 import Cart from "./components/Cart";
 import User from "./components/User";
 import Error from "./components/Error";
 import RestMenu from "./components/RestMenu";
+
 
 
 const AppLayout = () =>{
@@ -46,7 +47,7 @@ const appRoute=createBrowserRouter([
             element:<User/>
         },
         {
-            path:"/restaurant/:resId",
+            path:"/restaurant/*",
             element:<RestMenu/>
         }
     ],

@@ -1,10 +1,11 @@
+import { Link } from "react-router";
 import { BRAKING, BURGER, BURGER_KING, DRDIET, ICE_Cream, JNJ, PIZZA, ROLLEXPRESS, Rolls, SUBWAY, THALI, VEG_MEAL } from "../utils/constants";
 import restList from "../utils/mockData";
 import RestCard from "./RestCard";
 
 const Body = () =>{
     
-    console.log(restList)
+    
 
     return(
         <div className="bg-gray-100 mt-[-4px] p-6">
@@ -54,7 +55,7 @@ const Body = () =>{
                 <h1 className="text-[3rem] py-12">Chandigarh Area Restaurants</h1>
                 <div className="flex justify-between flex-wrap ">
                 {
-                    restList.map((e)=><RestCard  key={e.info.resId} data={e}/>)
+                    restList.map((e)=><Link key={e.info.resId} to={"/restaurant"+e.order.actionInfo.clickUrl}><RestCard  data={e}/></Link>)
                 }
                 </div>
                 </div>

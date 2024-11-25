@@ -1,5 +1,7 @@
 import contact from "../attributes/contact.png"; 
 import mockGitData from "../utils/mockGitData";
+import Shimmer from "./Shimmer";
+import ShimmerItems from "./ShimmerItems";
 
 
 
@@ -30,6 +32,8 @@ const About = () =>{
             <img src={Git_Data.avatar_url} alt="" className="rounded-full"/>
             </div>
             </div>
+
+            <ShimmerItems/>
         </div>
     )
 }
