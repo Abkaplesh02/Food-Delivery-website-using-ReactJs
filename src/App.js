@@ -20,7 +20,7 @@ const AppLayout = () =>{
         
         <Provider store={appStore}>
             {/* <searchContext.Provider > */}
-        <div className="app">
+            <div className="app ">
             <Header/>
             <Outlet/>
             <Footer/>
@@ -33,7 +33,7 @@ const AppLayout = () =>{
 
 const appRoute=createBrowserRouter([
     {
-        path:"/",
+        path:"/home",
         element:<AppLayout/>,
         children:[{
             path:"/home",
