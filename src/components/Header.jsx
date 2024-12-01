@@ -17,7 +17,7 @@ const Header = () =>{
     console.log(cartItems.length)
     return (
         <div className="font-bold flex justify-between flex-wrap items-center align-items-center align-content-center m-1 p-5 border border-gray-500 bg-gray-700 text-white lg:bg-gray-900 sm:bg-gray-950   ">
-            <div className=""><Link to="/home"> 
+            <div className=""><Link to="/"> 
                 <img className="w-[170px] p-2 cursor-pointer rounded-full" src={HEADER_LOGO_URL} alt="LOGO_IMAGE" /></Link>
             </div>
             <div className="flex ">
@@ -26,7 +26,7 @@ const Header = () =>{
             </div>
             <div className="mr-10">
                 <ul className="flex py-10  text-3xl ">
-                   <Link to="/home"><li className="py-4 px-10  hover:border-white hover:border-2 cursor-pointer">Home</li></Link>
+                   <Link to="/"><li className="py-4 px-10  hover:border-white hover:border-2 cursor-pointer">Home</li></Link>
                    <Link to="/about"><li className="py-4 px-10  hover:border-white hover:border-2 cursor-pointer" >About</li></Link>
                    <Link to="/cart"><li className="py-4 px-10  hover:border-white hover:border-2 cursor-pointer">Cart-({cartItems.length} items)</li></Link>
                    <Link to="/user"><li className="py-4 px-10  hover:border-white hover:border-2 cursor-pointer">{userNaam}</li></Link>
